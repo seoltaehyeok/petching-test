@@ -6,6 +6,11 @@ build/
 !**/src/test/**/build/
 application-db.properties
 
+application-db.properties
+=======
+applicaition-db.properties
+
+
 ### STS ###
 .apt_generated
 .classpath
